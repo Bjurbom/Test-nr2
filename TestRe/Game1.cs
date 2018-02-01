@@ -12,7 +12,7 @@ namespace TestRe
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
-        public Game1()
+        public Game1() // HEJ DÄR XDXD
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
