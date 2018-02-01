@@ -7,11 +7,11 @@ namespace TestRe
     /// <summary>
     /// This is the main type for your game.
     /// </summary>
+    //kalle 
     public class Game1 : Game
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
-
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
