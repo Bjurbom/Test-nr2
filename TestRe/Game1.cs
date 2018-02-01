@@ -78,9 +78,10 @@ namespace TestRe
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
             // TODO: Add your drawing code here
+            spriteBatch.Begin();
+
             spriteBatch.End();
 
-            spriteBatch.Begin();
 
             base.Draw(gameTime);
         }
