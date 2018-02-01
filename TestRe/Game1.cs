@@ -79,6 +79,8 @@ namespace TestRe
 
             // TODO: Add your drawing code here
 
+            spriteBatch.Begin();
+
             base.Draw(gameTime);
         }
     }
