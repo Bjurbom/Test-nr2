@@ -17,6 +17,7 @@ namespace TestRe
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
         }
+        //boi
 
         /// <summary>
         /// Allows the game to perform any initialization it needs to before starting to run.
