@@ -25,6 +25,9 @@ namespace TestRe
             position += velocity;
         }
 
-
+        public void Draw(SpriteBatch spriteBatch)
+        {
+            spriteBatch.Draw(texture, position, Color.White);
+        }
     }
 }
